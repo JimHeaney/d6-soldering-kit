@@ -5,6 +5,9 @@ The D6 Soldering Kit is a simple and fun soldering kit, that teaches those new t
 
 When no longer needed, the AtTiny can be harvested from the D6 and re-used for other projects.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/d6-soldering-kit.html).
+
 ## Current Release
 Version 1.3
 
